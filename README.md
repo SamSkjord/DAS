@@ -30,7 +30,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/PhotoFunia-1714938918.jpg" alt="Logo" width="750" height="537">
   </a>
 
