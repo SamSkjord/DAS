@@ -31,7 +31,7 @@
 <br />
 <div align="center">
     <img src="images/PhotoFunia-1714938918.jpg" alt="Logo" width="750" height="537">
-  </a>
+
 
   <h3 align="center">Best-README-Template</h3>
 
